@@ -1,0 +1,55 @@
+.main-div{
+
+    border: 2px solid black;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    padding: 40px;
+} 
+
+    .btn1{
+        background-color: red;
+        height:50px;
+        width: 100px;
+       border-radius: 10px;
+   
+    }
+    .p1{
+        color: red
+    }
+    .btn2{
+        background-color: blue;
+        height:50px;
+        width: 100px;
+        border-radius: 10px;
+    }
+    .p2{
+        color: green;
+    }
+    .btn3{
+        background-color: green;
+        height:50px;
+        width: 60px;
+        border-radius: 10px;
+    }
+    .p3{
+        color:blue;
+    }
+    .div2{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+    .div3{
+        display: flex;
+        gap: 20px;
+   
+    }
+    body{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       height: 100vh;
+    }
